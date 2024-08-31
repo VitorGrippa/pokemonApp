@@ -1,7 +1,0 @@
-{
-  "name": "Pokemon",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
